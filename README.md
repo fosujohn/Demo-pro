@@ -1,9 +1,5 @@
-## Demo
-
 # A Roadmap to Promoting and Marketing Artwork
-# from a Veteran Visual Art Teacher's
-# Perspective
-# Procedures to follow.
+
 
 Ann P. Dodys
 Ann P. Dodys
