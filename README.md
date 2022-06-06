@@ -1,16 +1,7 @@
-# A Roadmap to Promoting and Marketing Artwork
+# Status Codes
 
 
-Ann P. Dodys
-Ann P. Dodys
 
 
-The advancement in technology in the twenty first century has introduced new and
-exciting ways for artists to self-promote their artwork while traditional methods remain
-viable. To be competitive in the art market an artist must understand and implement a
-variety of marketing strategies. Effective marketing is particularly critical for an art
-teacher who is also a practicing artist in order to sell their artwork. Through a
-comparative analysis of readily available marketing tools for artwork, I explore in this
-study a variety of ways that an artist can establish a successful career in art through the
-use of technology, and create a roadmap that can be used to shorten their route.
+Once a REST API receives and processes an HTTP request, it will return an HTTP response. Included in this response is an HTTP status code. This code provides information about the results of the request. An application sending requests to the API can check the status code and perform actions based on the result. These actions could include handling errors or displaying a success message to a user.
 
